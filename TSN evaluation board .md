@@ -7,3 +7,4 @@
 | SJA1110-EVM | Preproduction, available to selected customers only (non-disclosure agreement (NDA) required). |
 | RELY-TSN-KIT | 802.1Qcc,Qbv,Qav,QAS |
 | MTSN Kit | need request |
+| 	AES-ZU-TSN-SK-G ||| 12,566.47USD | http://zedboard.org/product/tsn-hw-eval-kit |
