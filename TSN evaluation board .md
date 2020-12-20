@@ -8,3 +8,4 @@
 | RELY-TSN-KIT | 802.1Qcc,Qbv,Qav,QAS |
 | MTSN Kit | need request |
 | 	AES-ZU-TSN-SK-G ||| 12,566.47USD | http://zedboard.org/product/tsn-hw-eval-kit |
+|TTTech| mail   Qbv,QAS,cc,bu,CB ,    Intel Cyclone V SoC, Dual-core ARM Cortex-A9| ||https://www.tttech-industrial.com/products/slate/edge-ip-solution/#anchor_2|
