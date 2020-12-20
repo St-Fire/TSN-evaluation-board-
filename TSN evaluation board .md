@@ -9,3 +9,4 @@
 | MTSN Kit | need request ||| https://soc-e.com/mtsn-kit-a-comprehensive-multiport-tsn-setup/ |
 | 	AES-ZU-TSN-SK-G ||| 12,566.47USD | http://zedboard.org/product/tsn-hw-eval-kit |
 |TTTech| mail   Qbv,QAS,cc,bu,CB ,    Intel Cyclone V SoC, Dual-core ARM Cortex-A9| ||https://www.tttech-industrial.com/products/slate/edge-ip-solution/#anchor_2|
+|LS1021ATSN-PA|Qav,Qbv||Rs.67,166.71|https://in.element14.com/nxp/ls1021atsn-pa/ref-design-kit-time-sensitive/dp/2820409|
