@@ -12,3 +12,4 @@
 |LS1021ATSN-PA|Qav,Qbv||NT$29,190.94|https://in.element14.com/nxp/ls1021atsn-pa/ref-design-kit-time-sensitive/dp/2820409|
 |IAR KickStart Kit for R-IN32M4-CL3 with CC-Link IE TSN| C++　||EUR 300/USD 350|https://www.iar.com/rin32m4|
 |||||https://www.acontis.com/de/tsn-demonstration-kit.html   ,  https://www.acontis.com/files/flyer/acontis-TSN-Stack.pdf|
+|||||https://www.osadl.org/OPC-UA-over-TSN.opcua-tsn.0.html#c13382|
